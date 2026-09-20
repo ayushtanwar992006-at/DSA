@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,8 +15,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
