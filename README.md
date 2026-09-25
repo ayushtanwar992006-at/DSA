@@ -52,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
