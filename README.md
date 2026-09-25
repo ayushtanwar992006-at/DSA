@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
