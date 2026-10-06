@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar992006-at/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
