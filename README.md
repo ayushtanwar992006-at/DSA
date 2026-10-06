@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
