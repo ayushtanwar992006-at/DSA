@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
