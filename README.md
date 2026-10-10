@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushtanwar992006-at/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ayushtanwar992006-at/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ayushtanwar992006-at/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting
 |  |
 | ------- |
