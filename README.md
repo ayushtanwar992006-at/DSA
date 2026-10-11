@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ayushtanwar992006-at/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayushtanwar992006-at/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
