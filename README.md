@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3340-check-balanced-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/3340-check-balanced-string) |
 ## Binary Search
 |  |
 | ------- |
