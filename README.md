@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar992006-at/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3340-check-balanced-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/3340-check-balanced-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
