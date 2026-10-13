@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
+| [0090-subsets-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayushtanwar992006-at/DSA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0090-subsets-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ayushtanwar992006-at/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
