@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/ayushtanwar992006-at/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayushtanwar992006-at/DSA/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -144,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ayushtanwar992006-at/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
