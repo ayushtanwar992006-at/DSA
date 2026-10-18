@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0728-self-dividing-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar992006-at/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushtanwar992006-at/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushtanwar992006-at/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/ayushtanwar992006-at/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushtanwar992006-at/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
