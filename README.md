@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushtanwar992006-at/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushtanwar992006-at/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
