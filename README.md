@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar992006-at/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
