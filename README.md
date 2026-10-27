@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushtanwar992006-at/DSA/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0143-reorder-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0143-reorder-list) |
 | [1544-make-the-string-great](https://github.com/ayushtanwar992006-at/DSA/tree/master/1544-make-the-string-great) |
 ## Sliding Window
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -167,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
