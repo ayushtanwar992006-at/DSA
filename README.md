@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ayushtanwar992006-at/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayushtanwar992006-at/DSA/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtanwar992006-at/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ayushtanwar992006-at/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtanwar992006-at/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar992006-at/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
