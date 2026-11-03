@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ayushtanwar992006-at/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushtanwar992006-at/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar992006-at/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/ayushtanwar992006-at/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ayushtanwar992006-at/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar992006-at/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ayushtanwar992006-at/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Number Theory
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ayushtanwar992006-at/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
