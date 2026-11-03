@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushtanwar992006-at/DSA/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushtanwar992006-at/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushtanwar992006-at/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushtanwar992006-at/DSA/tree/master/0567-permutation-in-string) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/1512-number-of-good-pairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushtanwar992006-at/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushtanwar992006-at/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushtanwar992006-at/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayushtanwar992006-at/DSA/tree/master/0328-odd-even-linked-list) |
